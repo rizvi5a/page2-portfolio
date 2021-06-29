@@ -1,6 +1,23 @@
 # portfolio-page2# updated-portfolio:
  <img src="assets/images/updated-portfolio.png" alt="updated-portfolio Picture>/img"> 
 
+# Project-2
+
+This app is to help promote the procurement and sales of high end paintings. The learning objective was to work five of us in the full stack enviornment to develop both front-end and back-end of the project.
+
+Link to Github repository files: 
+
+https://github.com/kthendavid04/gallery
+
+ <img src="assets/images/Project-2.png" alt="Project-2 Picture>/img"> 
+There were five hardworking contributors for this page; there names are as follow:
+
+A. Max Quintanilla
+B. Katherine Seeburger
+C. Luis Cuevas
+D. Syed S. Rizvi
+E. Cristobal Canales
+
 # Project-1
 
 This project uses Spoonacular and Edmam APIs to make a very practical web-page. The favorite recipies are searched and then saved with comments in the localStorage for future use.
@@ -9,19 +26,18 @@ Link to Github repository files: https://github.com/the64man1/Gooberville-Foods/
 
 Link to Github pages website: https://the64man1.github.io/Gooberville-Foods/
 
-
  <img src="assets/images/Project-1.png" alt="Project-1 Picture>/img"> 
-There were five hardworking contributors for this page; there names are as follow:
+There were five hardworking contributors for this website; there names are as follow:
 
-1. Cristobal Canales
-2. Max Quintanilla
-3. Katherine Seeburger
-4. Luis Cuevas
-5. Syed S. Rizvi
+A. Max Quintanilla
+B. Katherine Seeburger
+C. Luis Cuevas
+D. Syed S. Rizvi
+E. Cristobal Canales
 
 # Password Generator:
 
-this random password generator is based on JavaScript and uses lower & upper case letters, numberes and special characters to generate a password between 8 to 15 characters long.
+This random password generator is based on JavaScript and uses lower & upper case letters, numberes and special characters to generate a password between 8 to 15 characters long.
 
 Link to Github Repo: https://github.com/rizvi5a/PasswordGen
 

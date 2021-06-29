@@ -90,7 +90,7 @@ main {
 .hero-banner {
   background: rgb(68, 88, 120);
   /* background-image: url("/assets/images/Syed-Rizvi.png"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%); */
-  background-image: url("../images/Syed-Rizvi.png");
+  background-image: url("../images/theme-1.jpg");
  
   background-size: cover;
   background-position: center;
@@ -251,6 +251,9 @@ main {
   background-image: url("../images/Project-1.png");
 }
 
+.project-2 {
+  background-image: url("../images/Project-2.png");
+}
 
 /* end portfolio project images */
 
