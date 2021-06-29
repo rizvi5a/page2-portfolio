@@ -1,5 +1,5 @@
 # portfolio-page2# updated-portfolio:
- <img src="assets/images/page2-portfolio.png" alt="page2-portfolio Picture>/img"> 
+<img src="assets/images/page2-portfolio.png" alt="page2-portfolio Picture>/img"> 
 
 # Project-2
 

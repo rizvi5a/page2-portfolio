@@ -133,8 +133,8 @@ main {
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: space-between;
-  font-style: var(--dark);
-  font-weight: bold;
+  font-display: var(--dark);
+  
 }
 
 .page-section > h2 {
