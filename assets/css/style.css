@@ -133,6 +133,8 @@ main {
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: space-between;
+  font-style: var(--dark);
+  font-weight: bold;
 }
 
 .page-section > h2 {
@@ -294,7 +296,7 @@ main {
 @media screen and (max-width: 768px) {
   
   #pic {
-    visibility: hidden;
+    visibility: display;
   }
   .flex-item:first-child {
     flex-basis: 100%;
