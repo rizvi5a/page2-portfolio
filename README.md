@@ -1,5 +1,5 @@
 # portfolio-page2# updated-portfolio:
-<!-- <img src="assets/images/page2-portfolio.png" alt="page2-portfolio Picture>/img">  -->
+<img src="assets/images/page2-portfolio.png" alt="page2-portfolio Picture>/img">  
 
 # Project-2
 
@@ -12,7 +12,7 @@ https://github.com/kthendavid04/gallery
 Link to Github pages website: 
 https://whispering-river-42546.herokuapp.com/
 
- <!-- <img src="assets/images/project-2.png" alt="project-2 Picture>/img">  -->
+ <img src="assets/images/project-2.png" alt="project-2 Picture>/img"> 
 There were five hardworking contributors for this page; there names are as follow:
 
 A. Max Quintanilla
@@ -29,7 +29,7 @@ Link to Github repository files: https://github.com/the64man1/Gooberville-Foods/
 
 Link to Github pages website: https://the64man1.github.io/Gooberville-Foods/
 
-
+<img src="assets/images/project-1.png" alt="project-1 Picture>/img"> 
 
 
 Our Team
@@ -48,7 +48,7 @@ Link to Github Repo: https://github.com/rizvi5a/PasswordGen
 
 Link to web page: https://rizvi5a.github.io/PasswordGen/
 
-<!-- <img src="assets/images/Password-Generator.png" alt="Password Generator Picture>/img">  -->
+<!-- <img src="assets/images/Password-Generator.png" alt="Password Generator Picture>/img">   -->
 
 # Code Quiz:
 
