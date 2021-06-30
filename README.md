@@ -3,7 +3,7 @@
 
 # Project-2
 
-This app is to help promote the procurement and sales of high end paintings. The learning objective was to work five of us in the full stack enviornment to develop both front-end and back-end of the project.
+This app is to help promote the procurement and sales of high end paintings. The learning objective for five of us was to work in a full stack development enviornment to develop both front-end and back-end of this project.
 
 Link to Github repository files: 
 
