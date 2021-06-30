@@ -9,7 +9,10 @@ Link to Github repository files:
 
 https://github.com/kthendavid04/gallery
 
- <img src="assets/images/Project-2.png" alt="Project-2 Picture>/img"> 
+Link to Github pages website: 
+https://whispering-river-42546.herokuapp.com/
+
+ <img src="assets/images/project-2.png" alt="project-2 Picture>/img"> 
 There were five hardworking contributors for this page; there names are as follow:
 
 A. Max Quintanilla
@@ -26,7 +29,7 @@ Link to Github repository files: https://github.com/the64man1/Gooberville-Foods/
 
 Link to Github pages website: https://the64man1.github.io/Gooberville-Foods/
 
- <img src="assets/images/Project-1.png" alt="Project-1 Picture>/img"> 
+ <img src="assets/images/project-1.png" alt="project-1 Picture>/img"> 
 There were five hardworking contributors for this website; there names are as follow:
 
 A. Max Quintanilla
