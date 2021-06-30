@@ -29,7 +29,8 @@ Link to Github repository files: https://github.com/the64man1/Gooberville-Foods/
 
 Link to Github pages website: https://the64man1.github.io/Gooberville-Foods/
 
- <img src="assets/images/project-1.png" alt="project-1 Picture>/img"> 
+
+
 
 Our Team
 
